@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\SkillFactory Course\\HomeWorks SkillFactory\\Chat\\Chat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED67CF1-7302-468B-ADF5-8A265E86F27D}|Chat\\Chat.vcxproj|C:\\Users\\user\\Desktop\\SkillFactory Course\\HomeWorks SkillFactory\\Chat\\Chat\\Chat\\Chat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3ED67CF1-7302-468B-ADF5-8A265E86F27D}|Chat\\Chat.vcxproj|solutionrelative:Chat\\Chat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chat.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\SkillFactory Course\\HomeWorks SkillFactory\\Chat\\Chat\\Chat\\Chat.cpp",
+              "RelativeDocumentMoniker": "Chat\\Chat.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\SkillFactory Course\\HomeWorks SkillFactory\\Chat\\Chat\\Chat\\Chat.cpp",
+              "RelativeToolTip": "Chat\\Chat.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAG0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T11:25:14.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
